@@ -176,7 +176,7 @@
               "href": "https://publicsuffix.org/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=publicsuffix.org",
-              "useDefaultIcon": true,
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
