@@ -95,8 +95,8 @@
         },
         {
           "id": "8f5e0374-2ee9-4012-acac-baecb515d826",
-          "title": "提示词助手",
-          "icon": "Book",
+          "title": "API调用",
+          "icon": "Link",
           "description": "",
           "enabled": true,
           "items": [
