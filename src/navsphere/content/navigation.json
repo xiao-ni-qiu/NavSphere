@@ -48,7 +48,17 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1792755367982_id6wcbk60",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "",
+              "icon": "/assets/favicon_1792755355867.png",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
