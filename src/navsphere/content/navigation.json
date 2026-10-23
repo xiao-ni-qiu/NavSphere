@@ -11,7 +11,7 @@
           "href": "https://github.com/",
           "description": "",
           "icon": "/assets/favicon_1792755301385.png",
-          "useDefaultIcon": true,
+          "useDefaultIcon": false,
           "enabled": true
         }
       ],
