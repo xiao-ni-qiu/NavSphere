@@ -4,7 +4,17 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1792755322042_xgwydu6y4",
+          "title": "GitHub",
+          "href": "https://github.com/",
+          "description": "",
+          "icon": "/assets/favicon_1792755301385.png",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
