@@ -177,6 +177,15 @@
               "icon": "/assets/favicon_1792755526515.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1792755608003_soxt8a38g",
+              "title": "DigitalPlat Domains",
+              "href": "https://domain.digitalplat.org/",
+              "description": "",
+              "icon": "/assets/favicon_1792755595065.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
