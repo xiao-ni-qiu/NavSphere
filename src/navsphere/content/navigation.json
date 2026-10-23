@@ -168,6 +168,15 @@
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=publicsuffix.org",
               "useDefaultIcon": true,
               "enabled": true
+            },
+            {
+              "id": "site_1792755538663_qg4ka7eab",
+              "title": "Launch into the future - Spaceship",
+              "href": "https://www.spaceship.com/",
+              "description": "",
+              "icon": "/assets/favicon_1792755526515.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
