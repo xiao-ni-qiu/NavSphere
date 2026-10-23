@@ -64,7 +64,7 @@
               "href": "https://gemini.google.com/",
               "description": "",
               "icon": "/assets/favicon_1792755402473.png",
-              "useDefaultIcon": true,
+              "useDefaultIcon": false,
               "enabled": true
             }
           ]
