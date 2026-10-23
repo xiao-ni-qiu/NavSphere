@@ -159,7 +159,17 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1792755507963_k65diaxzo",
+              "title": "Public Suffix List",
+              "href": "https://publicsuffix.org/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=publicsuffix.org",
+              "useDefaultIcon": true,
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
