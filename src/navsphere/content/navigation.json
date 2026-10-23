@@ -99,7 +99,17 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1792755770213_r6scv1uqw",
+              "title": "大模型服务平台百炼控制台",
+              "href": "https://bailian.console.aliyun.com/cn-beijing/model/market",
+              "description": "",
+              "icon": "/assets/favicon_1792755755044.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
